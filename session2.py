@@ -9,7 +9,7 @@ def func(a, b):
     return "hola world"
 
 def func2 (a, b):
-    return a + 2*b
+    return a/7
 
 def func3 (a, b):
     return a + 3
