@@ -6,10 +6,10 @@ Created on Wed Oct  6 10:30:08 2021
 """
 
 def func(a, b):
-    return a + b
+    return "hola world"
 
 def func2 (a, b):
-    return a * b
+    return a + 2*b
 
 def func3 (a, b):
     return a + 3
